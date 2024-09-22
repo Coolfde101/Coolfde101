@@ -1,4 +1,4 @@
- Hwllo!👋
+ Hello!👋
 
 - 🔭 I’m currently working on Website.
 - 🌱 I’m currently learning CSS, along with Python.
